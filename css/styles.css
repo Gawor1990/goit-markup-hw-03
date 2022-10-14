@@ -1,0 +1,31 @@
+:root {--brandcolor: #2196F3;}
+.linki:hover{ color: var(--brandcolor);}
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #212121;
+}
+.body1{color: #212121}
+ul{list-style-type: none;}
+.link1:focus{ color: var(--brandcolor);}
+.link1:hover{color: var(--brandcolor)}
+.link1{text-decoration: none; color: #212121; line-height: 1.17; font-style: inherit; font-size: 14px; letter-spacing: 0.3px; font-weight: 500;}
+.button2:hover {background-color: var(--brandcolor); color: #ffffff }
+.button2:focus{background-color: var(--brandcolor); color: #ffffff }
+.button2{background-color: lightgray; font-weight: 500; cursor: pointer; font-family:'Roboto'; line-height: 1.87; font-size: 16px; letter-spacing: 0.3px}
+.button{color: white; background-color: var(--brandcolor); font-weight: 700; line-height: 1.87 ; text-align: center; cursor: pointer; font-size: 16px;}
+.big{font-weight: 600; text-align: center; color:white; font-size: 44px; line-height: 1.36; letter-spacing: 0.3px}
+.section1{background-color: #2F303A;}
+.logo{font-family:'Raleway'; text-decoration: none; font-size: 26px; font-weight: 700; line-height: 1.17; letter-spacing: 0.3px}
+.logo{color:#212121}
+.top1{font-size: 36px; line-height: 1.17; font-weight: 700; font-style: inherit; color: #212121; letter-spacing: 0.3px}
+.foot1{background-color: #2F303A; color: #ffffff; text-decoration: none; letter-spacing: 0.3px; }
+.adres1{color: #757575; text-decoration: none; letter-spacing: 0.3px; font-size: 14px; line-height: 1.71; font-weight: 500;}
+.adres1:hover{color: var(--brandcolor)}
+.adres{color: #757575; text-decoration: none; font-size: 14px; font-family: 'Roboto'; line-height: 1.17; text-decoration: none;}
+.list1{font-weight: 400; font-size: 14px; color:#757575; letter-spacing: 0.3px; line-height: 1.17;}
+.lorem{font-weight: 700; font-size: 14px; color:#212121; letter-spacing: 0.3px; line-height: 1.17;}
+.web{color: var(--brandcolor)}
+.studio{color: #ffffff;}
+.h31{font-weight: 500; font-size: 16px; color:#212121; letter-spacing: 0.3px; line-height: 1.17;}
+.title {color: #757575; font-weight: 500; line-height: 1.17; letter-spacing: 0.3px; font-size: 16px;}
+.h311{font-weight: 500; font-size: 16px; color:#212121; letter-spacing: 0.6px; line-height: 1.17;}
