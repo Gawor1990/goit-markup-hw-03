@@ -3,6 +3,8 @@
 body{
     font-family: 'Roboto', sans-serif;
     color: #212121;
+    margin: 0;
+    
 }
 .body1{color: #212121}
 ul{list-style-type: none;}
